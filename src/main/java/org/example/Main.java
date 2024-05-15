@@ -35,7 +35,7 @@ public class Main {
         System.out.println(bookremoved);
 
 
-        Book bookFound = library.findBook("Pavadinimas14");
+        Book bookFound = library.findBook("Pavadinimas1");
 
         System.out.println();
         System.out.println("Rasta");
